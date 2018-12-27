@@ -1,0 +1,2 @@
+# FF_PerformAndCancel
+类似播放器操作bar的显示和自动隐藏 performSelector和cancelPreviousPerformRequestsWithTarget的使用
